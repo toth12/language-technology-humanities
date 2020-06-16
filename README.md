@@ -1,7 +1,7 @@
 # language-technology-humanities
 Python code to reproduce some experiments published in Language Technology and Humanities Research by Barbara McGillivray and Gabor M. Toth (Palgrave, 2020)
 
-Repository not maintained (issues disable); it is meant to help readers to see some research code underlying experiments in the book.
+Repository not maintained (issues disabled); it is meant to help readers to see some research code underlying experiments described in the book.
 
 ## Requirements
 
@@ -66,9 +66,9 @@ sh process_moonstone.sh > report_moonstone.txt
 
 Open report_moonstone.txt to see the output of the script.
 
-### Study the Anglo-Saxon Chronicle through a feature space representation
+### Study the Anglo-Saxon Chronicle through a feature space representation (chapter 6)
 
-The goal of this experiment is to demonstrate the use of feature space representation of texts through the study of the Anglo-Saxon Chronicle. By running the following bash script (calling various python scripts), you can reproduce the details discussed in the book (chapter 6.)
+The goal of this experiment is to demonstrate the use of feature space representation of texts through the study of the Anglo-Saxon Chronicle. By running the following bash script (calling various python scripts), you can reproduce the details discussed in the book.
 
 ```
 sh process_anglo_saxon_chronicle.sh
