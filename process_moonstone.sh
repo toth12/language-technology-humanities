@@ -1,0 +1,9 @@
+#!/bin/bash
+python DataProcessing/Moonstone/extract_all_tokens.py
+python Experiments/MeasureRelativeFrequenciesMoonstone/measure_frequency.py
+python DataProcessing/VictorianNovels/extract_all_tokens.py
+python DataProcessing/VictorianNovels/measure_frequency.py
+python Experiments/IdentifyCharacteristicVocabMoonstone/compare_moonstone_and_reference_corpus.py
+python DataProcessing/BrownCorpus/extract_all_tokens.py
+python DataProcessing/BrownCorpus/measure_frequency.py
+python Experiments/IdentifyCharacteristicVocabMoonstone/compare_moonstone_and_brown_corpus.py
