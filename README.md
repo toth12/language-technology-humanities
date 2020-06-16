@@ -1,2 +1,2 @@
 # language-technology-humanities
-Code to reproduce some experiments published in Language Technology and Humanities Research by McGillivray and Toth (Palgrave, 2020)
+Python code to reproduce some experiments published in Language Technology and Humanities Research by Barbara McGillivray and Gabor M. Toth (Palgrave, 2020)
