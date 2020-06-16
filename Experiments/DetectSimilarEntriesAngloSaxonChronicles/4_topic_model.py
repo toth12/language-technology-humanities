@@ -20,6 +20,7 @@ import matplotlib.pyplot as plt
 import itertools
 import shutil
 import os
+from shutil import copyfile
 
 
 
@@ -204,7 +205,9 @@ plt.bar(range(topic_model.tcs.shape[0]), topic_model.tcs, color='#4e79a7',
         width=0.5)
 plt.xlabel('Topic', fontsize=16)
 plt.ylabel('Total Correlation (nats)', fontsize=16)
-plt.savefig('topics.png', bbox_inches='tight')
+plt.savefig(data_directory+'topics.png', bbox_inches='tight')
+
+
 
 # copy output to output data folder
 cwd = os.getcwd()
@@ -220,7 +223,7 @@ print ("\n")
 print (data_directory+'topic-model-anchored-report')
 print (data_directory+'topic-model-report')
 print (data_directory+'topic-model-hierarchical-report')
-
+pdb.set_trace()
 
 
 
