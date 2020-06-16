@@ -1,0 +1,3 @@
+#!/bin/bash
+python DataProcessing/DickinsonPoems/extract_all_tokens.py
+python Experiments/MeasureRelativeFrequencyDickinsonPoetry/measure_frequency.py
