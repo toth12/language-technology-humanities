@@ -1,5 +1,5 @@
 # language-technology-humanities
-Python code to reproduce some experiments published in Language Technology and Humanities Research by Barbara McGillivray and Gabor M. Toth (Palgrave, 2020)
+Python code to reproduce some experiments published in Applying Language Technology in Humanities Research by Barbara McGillivray and Gabor M. Toth (Palgrave, 2020)
 
 Repository not maintained (issues disabled); it is meant to help readers to see some research code underlying experiments described in the book.
 
