@@ -24,6 +24,11 @@ from random import choices
 sys.path.append(os.getcwd())
 import constants
 
+if len(sys.argv) > 1:
+    report = True
+else:
+    report = False
+
 
 print("-" * 80 + "\n")
 print("Rendering the Feature Space representing the Anglo-Saxon Chronicle Through Projection to a Lower-Dimensional Space began")
@@ -146,12 +151,11 @@ print (data_directory)
 print ("\n")
 print ("The output of the visualizations saved to the following two files in the directory above:\n")
 print ("1. t_sney_document_term_matrix_with_clusters_new.html\n2. t_sney_document_term_matrix_new.html\n")
-print ("Examine the two visualizations; by mouse hoovering over a point, you will see the corresponding entry; it is sometimes abbreviated.")
-print ("\n")
-print("Use the show_entry function to render a complete entry; for instance to render entry number two, type 'show_entry(2)")
-print ("\n")
-print ("If you want to continue with the process, type 'c'")
+if report==False:
+    print ("Examine the two visualizations; by mouse hoovering over a point, you will see the corresponding entry; it is sometimes abbreviated.")
+    print ("\n")
+    print("Use the show_entry function to render a complete entry; for instance to render entry number two, type 'show_entry(2)")
+    print ("\n")
+    print ("If you want to continue with the process, type 'c'")
 
-
-
-pdb.set_trace()
+    pdb.set_trace()

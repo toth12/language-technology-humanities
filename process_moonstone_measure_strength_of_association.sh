@@ -1,0 +1,4 @@
+#!/bin/bash
+python DataProcessing/Moonstone/extract_all_tokens_in_sentences.py
+python Experiments/MeasureStrengthOfAssociations/1_calculate_limping_lucy_frequency.py
+

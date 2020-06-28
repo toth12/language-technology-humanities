@@ -1,11 +1,3 @@
-"""Trains a TF-IDF model of all entries and returns a document term matrix.
-
-Multiword expressions are recognized;project specific stopwords eliminated
-all terms the df of which is below 5 removed; documents that are outliers
-(too few or too many resulting features after training) removed; importance
-of features are measured with a RandomForestClassifier and unimportant features
-removed from the document term matrix.
-"""
 
 import os
 import json
@@ -212,7 +204,19 @@ plt.savefig(data_directory+'topics.png', bbox_inches='tight')
 # copy output to output data folder
 cwd = os.getcwd()
 # check if folder already exists
+
 if not os.path.isdir(data_directory+'topic-model-anchored-report'):
+
+    shutil.move(cwd+'/topic-model-anchored-report', data_directory)
+    shutil.move(cwd+'/topic-model-hierarchical-report', data_directory)
+    shutil.move(cwd+'/topic-model-report', data_directory)
+
+else:
+
+    shutil.rmtree(data_directory+'/topic-model-anchored-report')
+    shutil.rmtree(data_directory+'/topic-model-report')
+    shutil.rmtree(data_directory+'/topic-model-hierarchical-report')
+
 
     shutil.move(cwd+'/topic-model-anchored-report', data_directory)
     shutil.move(cwd+'/topic-model-hierarchical-report', data_directory)
@@ -223,7 +227,6 @@ print ("\n")
 print (data_directory+'topic-model-anchored-report')
 print (data_directory+'topic-model-report')
 print (data_directory+'topic-model-hierarchical-report')
-pdb.set_trace()
 
 
 

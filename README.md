@@ -50,7 +50,7 @@ sh process_poems_dickinson.sh > report_dickinson_poems.txt
 
 Open report_dickinson_poems.txt to see the output of the script. 
 
-### Identify the characteristic vocabulary of the Moonstone by Wilkie Collins (chapter 3)
+### Identify the characteristic vocabulary of The Moonstone by Wilkie Collins (chapter 3)
 
 The goal of this experiment is to detect those terms in the novel that have an impact on the overall mood of the novel. By running the following bash script (calling various python scripts), you can reproduce the details discussed in the book. The script takes a few seconds.
 
@@ -65,6 +65,24 @@ sh process_moonstone.sh > report_moonstone.txt
 ```
 
 Open report_moonstone.txt to see the output of the script.
+
+### Measure strength of association between limping and Lucy in The Moonstone by Wilkie Collins (chapter 4)
+
+The goal of this experiment is to point out that the bigram limping Lucy is a collocation in the novel by Collins. By running the following bash script (calling various python scripts), you can reproduce the details discussed in the book. The script takes a few seconds.
+
+```
+process_moonstone_measure_strength_of_association.sh
+```
+
+If you want to save the output of the script above, run:
+
+```
+process_moonstone_measure_strength_of_association.sh > report_moonstone_strength_of_association.txt
+```
+
+Open report_moonstone_strength_of_association.txt to see the output of the script.
+
+
 
 ### Study the Anglo-Saxon Chronicle through a feature space representation (chapter 6)
 
