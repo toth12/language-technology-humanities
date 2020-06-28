@@ -1,0 +1,142 @@
+--------------------------------------------------------------------------------
+
+The transformation of the Anglo-Saxon Chronicle began.
+
+Results saved into:/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/document_collection.json
+
+The number of documents in the docoument collection: 580
+
+The transformation of the Anglo-Saxon Chronicle finished.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Linguistic processing of the Anglo-Saxon Chronicle began (takes a few seconds, be patient)
+
+
+Total token count (without punctuation): 83863
+Total type count (without punctuation): 6303
+
+
+Total type (lemma) count (without punctuation): 5374
+--------------------------------------------------------------------------------
+
+Feature Selection began
+Limiting the vocabulary into lemmatized content words began (takes a few seconds, be patient)
+
+
+The total number of tokens (replaced for lemmas) after selection of content words: 23736
+The total number of types (lemmas) after selection of content words: 2667
+
+
+Limiting the vocabulary into lemmatized content words finished; results saved to: /Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/lemmatized_content_words_only_document_collection.json
+Feature Selection finished
+Result is written to the following file and folder
+lemmatized_content_words_only_document_collection.json
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/
+--------------------------------------------------------------------------------
+
+Recognition of multi-word expressions began
+
+
+The total number of types (lemmas) after recognition of multiwords: 2878
+
+
+The total number of recognized multi-words: 22085
+Recognition of multi-word expressions finished, a new document collection was saved into: /Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/lemmatized_content_words_only_multi_words_document_collection.json
+
+
+--------------------------------------------------------------------------------
+
+Elimination of terms the document frequency of which is below 5 is beginning.
+
+
+42.18207088255733% of all terms occur only in one document
+After eliminating terms the document frequency of which is less than five, 775 terms are remaining.
+--------------------------------------------------------------------------------
+
+Assessment of term importance with RandomForestClassifier began
+
+
+--------------------------------------------------------------------------------
+
+Assessment of term importance with RandomForestClassifier finished
+
+
+
+List of terms the document frequency of which is more than four (including  their document frequency and their importance assessed with  RandomForestClassifier) is saved into the following folder and file:
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/
+features_selected_with_unsupervised_methods.csv
+
+
+Accomplish the human supervision of this file
+Select those terms from this list that are significant for general historical patterns
+
+
+Save the result of human selection into the following folder and file
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/
+features_selected_with_supervised_methods.csv
+--------------------------------------------------------------------------------
+
+The construction of the tf-idf scored document-term matrix representing the Anglo-Saxon Chronicle began (takes a few seconds, be patient)
+
+
+The construction of the tf-idf scored document-term matrix representing the Anglo-Saxon Chronicle finished
+
+
+Results (document term matrix and feature index) are saved into the following folder and files
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/
+document_term_matrix_TF_IDF.txt
+index_removed_entries.json
+--------------------------------------------------------------------------------
+
+Post-processing of document collection began.
+
+
+--------------------------------------------------------------------------------
+
+40 entries were removed from the document collection
+
+
+--------------------------------------------------------------------------------
+
+Post-processing of document collection finished; results were written into/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/post_processed_document_collection.json
+
+
+--------------------------------------------------------------------------------
+
+Clustering the annals of the Anglo Saxon Chronicle began
+
+
+Clustering the annals of the Anglo Saxon Chronicle finished
+In total 82 clusters were detected
+A report about the clusters (keywords connecting cluster members, and the number of documents belonging to the cluster) has been written to the following file in the following directory
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/
+cluster_report.txt
+--------------------------------------------------------------------------------
+
+Rendering the Feature Space representing the Anglo-Saxon Chronicle Through Projection to a Lower-Dimensional Space began
+
+
+The output of the visualizations saved to the following folder:
+
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Anglo_Saxon_Chronicles/
+
+
+The output of the visualizations saved to the following two files in the directory above:
+
+1. t_sney_document_term_matrix_with_clusters_new.html
+2. t_sney_document_term_matrix_new.html
+
+Examine the two visualizations; by mouse hoovering over a point, you will see the corresponding entry; it is sometimes abbreviated.
+
+
+Use the show_entry function to render a complete entry; for instance to render entry number two, type 'show_entry(2)
+
+
+If you want to continue with the process, type 'c'
+--Return--
+> /Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Experiments/DetectSimilarEntriesAngloSaxonChronicles/2_plot_document_term_matrix.py(157)<module>()->None
+-> pdb.set_trace()
+(Pdb) 

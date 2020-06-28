@@ -1,0 +1,122 @@
+--------------------------------------------------------------------------------
+
+Pre-processing of the Moonstone by Wilkie Collins began (takes a few seconds, be patient)
+
+
+Pre-processing of the Moonstone by Wilkie Collins finished
+Results are saved to the following folder and files
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Moonstone/
+moonstone_all_tokens_with_stopwords.json
+moonstone_all_tokens_without_stopwords.json
+--------------------------------------------------------------------------------
+
+Measuring of word frequencies in the Moonstone by Wilkie Collins began
+
+
+Total word count (with stopwords) in the Moonstone: 199849
+
+
+The relative frequency per thousand word of dreadful is: 
+0.3874128321
+The raw frequency (count) of dreadful is: 
+31
+The position of dreadful in the frequency ranking:
+492
+
+
+Total word count (without stopwords) in the Moonstone: 80018
+
+
+Measuring of word frequencies in the Moonstone by Wilkie Collins finished
+Results are saved to the following folder and files
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Moonstone/
+frequency_all_tokens_with_stopwords.csv
+frequency_all_tokens_without_stopwords.csv
+--------------------------------------------------------------------------------
+
+Pre-processing of the Victorian novels mini corpus began (it takes a few minutes, be patient)
+
+
+Pre-processing of the Victorian novels mini corpus finished
+Results are saved to the following folder and files
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/VictorianNovels/
+1342-0_all_tokens_without_stopwords.json
+1400-0_all_tokens_without_stopwords.json
+158-0_all_tokens_without_stopwords.json
+969-0_all_tokens_without_stopwords.json
+98-0_all_tokens_without_stopwords.json
+pg120_all_tokens_without_stopwords.json
+pg1260_all_tokens_without_stopwords.json
+pg145_all_tokens_without_stopwords.json
+pg174_all_tokens_without_stopwords.json
+pg4276_all_tokens_without_stopwords.json
+pg599_all_tokens_without_stopwords.json
+pg768_all_tokens_without_stopwords.json
+--------------------------------------------------------------------------------
+
+Measuring of word frequencies in the Victorian novels mini corpus began
+
+
+Measuring of word frequencies in the Victorian novels mini corpus finished
+Results saved to the following folder and file
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/VictorianNovels/
+frequency_all_tokens_no_stopwords.csv
+--------------------------------------------------------------------------------
+
+Identifying the characteristic vocabulary of the Moonstone by comparing the word frequency in the novel with word frequencies in other contemporaty Victorian novels began
+
+
+The relative frequency per 1000 words of dreadful in the Moonstone: 0.3874128321
+The relative frequency per 1000 words of dreadful in the reference corpus : 0.2198097279
+The relative frequency per 1000 words of look in the Moonstone: 7.1608888
+The relative frequency per 1000 words of look in the reference corpus : 5.9443679401
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token inquiry is: 3.203286488959058
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token lawyer is: 3.7743071239474117
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token prove is: 2.6734675461294164
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token thief is: 5.816569197864162
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token indian is: 6.290511873245686
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token birthday is: 7.565615631336028
+The observed (Moonstone) and expected (Victorian novels as reference corpus) ratio of the token jewel is: 4.242438240095928
+Identifying the characteristic vocabulary of the Moonstone by comparing the word frequency in the novel with word frequencies in other contemporaty Victorian novels finished
+Results saved to the following file and folder
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Moonstone/
+moonstone_characteristic_vocab_comparison_with_victorian_novels.csv
+--------------------------------------------------------------------------------
+
+Pre-processing of the Brown Corpus began (takes a few minutes, be patient)
+
+
+Pre-processing of the Brown corpus finished
+Results saved to the following folder and file
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/BrownCorpus/
+all_token_without_stopwords.json
+--------------------------------------------------------------------------------
+
+Measuring of frequencies in the Brown Corpus began
+
+
+Measuring of word frequencies in the Brown corpus finished
+Results saved to the following folder and file
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/BrownCorpus/
+frequency_all_tokens_no_stopwords.csv
+--------------------------------------------------------------------------------
+
+Identifying the characteristic vocabulary of the Moonstone by comparing the word frequency in the novel with word frequencies in Brown Corpus began
+
+
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token whisper is: 2.119216328716128
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token silence is: 2.3049153352980714
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token discover is: 2.0549976520883666
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token strange is: 1.7200441229147905
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token stranger is: 2.3890582680077794
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token temper is: 3.63152093887975
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token extraordinary is: 2.3811877555944565
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token suddenly is: 1.5142536626077026
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token burst is: 2.095795399593062
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token afraid is: 1.9888329549567334
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token dread is: 2.1095835272219636
+The observed (Moonstone) and expected (Brown corpus as reference corpus) frequencty ratio of the token alarm is: 2.65356418518486
+Identifying the characteristic vocabulary of the Moonstone by comparing the word frequency in the novel with word frequencies in the Brown corpus finished
+Results saved to the following file and folder
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Moonstone/
+moonstone_characteristic_vocab_comparison_with_brown_corpus.csv

@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+
+Pre-processing of two poems by Emily Dickinson began
+
+
+Pre-processing of two poems by Emily Dickinson finished
+Resuts saved into the following folder and files
+/Users/gmt28/Documents/Workspace/Langtech-Humanities_Research_public/language-technology-humanities/Data/Outputs/Dickinson_Poems/
+poem_1_all_tokens.json
+poem_2_all_tokens.json
+--------------------------------------------------------------------------------
+
+Measuring of relative frequency of poems by Emily Dickinson began
+
+
+
+
+Total word count in poem 1: 45
+The number of occurrences of never in this poem: 3
+The relative frequency of never in this poem: 0.06666666666666667
+
+
+Total word count in poem 2: 102
+The number of occurrences of never in this poem: 3
+The relative frequency of never in this poem: 0.029411764705882353

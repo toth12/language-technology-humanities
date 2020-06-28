@@ -1,0 +1,554 @@
+
+Cluster 0:
+
+At least two third of docs have the following keywords in the cluster:
+apostle bless
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 1:
+
+At least two third of docs have the following keywords in the cluster:
+empire
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 2:
+All documents in the cluster has the following keywords:
+assume_government
+At least two third of docs have the following keywords in the cluster:
+assume_government brother bishop reign son
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 3:
+All documents in the cluster has the following keywords:
+island
+At least two third of docs have the following keywords in the cluster:
+island
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 4:
+All documents in the cluster has the following keywords:
+pope
+At least two third of docs have the following keywords in the cluster:
+pope
+Total number of documents in the cluster: 13
+------------------------------
+Cluster 5:
+All documents in the cluster has the following keywords:
+suffer
+At least two third of docs have the following keywords in the cluster:
+suffer
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 6:
+All documents in the cluster has the following keywords:
+flight
+At least two third of docs have the following keywords in the cluster:
+flight fight_put
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 7:
+
+At least two third of docs have the following keywords in the cluster:
+
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 8:
+All documents in the cluster has the following keywords:
+bury die
+At least two third of docs have the following keywords in the cluster:
+bury die abbot sea
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 9:
+All documents in the cluster has the following keywords:
+call fight
+At least two third of docs have the following keywords in the cluster:
+call fight
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 10:
+All documents in the cluster has the following keywords:
+succeed_empire
+At least two third of docs have the following keywords in the cluster:
+succeed_empire
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 11:
+All documents in the cluster has the following keywords:
+reign
+At least two third of docs have the following keywords in the cluster:
+reign king
+Total number of documents in the cluster: 10
+------------------------------
+Cluster 12:
+All documents in the cluster has the following keywords:
+monk
+At least two third of docs have the following keywords in the cluster:
+monk
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 13:
+All documents in the cluster has the following keywords:
+baptism call consecrate_bishop king send_preach sister son
+At least two third of docs have the following keywords in the cluster:
+baptism call consecrate_bishop king send_preach sister son
+Total number of documents in the cluster: 2
+------------------------------
+Cluster 14:
+All documents in the cluster has the following keywords:
+invest
+At least two third of docs have the following keywords in the cluster:
+archbishop bishop invest
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 15:
+All documents in the cluster has the following keywords:
+baptize
+At least two third of docs have the following keywords in the cluster:
+baptize king
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 16:
+All documents in the cluster has the following keywords:
+hide
+At least two third of docs have the following keywords in the cluster:
+hide
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 17:
+All documents in the cluster has the following keywords:
+bishop ordain
+At least two third of docs have the following keywords in the cluster:
+bishop die ordain
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 18:
+All documents in the cluster has the following keywords:
+build
+At least two third of docs have the following keywords in the cluster:
+build minster
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 19:
+All documents in the cluster has the following keywords:
+government
+At least two third of docs have the following keywords in the cluster:
+die government king
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 20:
+
+At least two third of docs have the following keywords in the cluster:
+king monastery archbishop
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 21:
+All documents in the cluster has the following keywords:
+succeed_kingdom
+At least two third of docs have the following keywords in the cluster:
+succeed_kingdom
+Total number of documents in the cluster: 12
+------------------------------
+Cluster 22:
+All documents in the cluster has the following keywords:
+overrun
+At least two third of docs have the following keywords in the cluster:
+kingdom overrun king
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 23:
+All documents in the cluster has the following keywords:
+reign
+At least two third of docs have the following keywords in the cluster:
+king receive_baptism reign church
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 24:
+All documents in the cluster has the following keywords:
+alderman
+At least two third of docs have the following keywords in the cluster:
+alderman
+Total number of documents in the cluster: 19
+------------------------------
+Cluster 25:
+All documents in the cluster has the following keywords:
+succeed_government
+At least two third of docs have the following keywords in the cluster:
+son succeed_government king
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 26:
+All documents in the cluster has the following keywords:
+holy
+At least two third of docs have the following keywords in the cluster:
+holy die king
+Total number of documents in the cluster: 10
+------------------------------
+Cluster 27:
+All documents in the cluster has the following keywords:
+depart_life
+At least two third of docs have the following keywords in the cluster:
+depart_life
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 28:
+
+At least two third of docs have the following keywords in the cluster:
+porch
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 29:
+All documents in the cluster has the following keywords:
+slay
+At least two third of docs have the following keywords in the cluster:
+slay
+Total number of documents in the cluster: 11
+------------------------------
+Cluster 30:
+All documents in the cluster has the following keywords:
+fight
+At least two third of docs have the following keywords in the cluster:
+fight
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 31:
+All documents in the cluster has the following keywords:
+consecrate
+At least two third of docs have the following keywords in the cluster:
+archbishop bishop consecrate die
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 32:
+
+At least two third of docs have the following keywords in the cluster:
+son die king
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 33:
+All documents in the cluster has the following keywords:
+consecrate_bishop
+At least two third of docs have the following keywords in the cluster:
+consecrate_bishop bishop
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 34:
+All documents in the cluster has the following keywords:
+moon_eclipse
+At least two third of docs have the following keywords in the cluster:
+moon_eclipse
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 35:
+
+At least two third of docs have the following keywords in the cluster:
+kingdom deprive
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 36:
+
+At least two third of docs have the following keywords in the cluster:
+death die consecrate_archbishop
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 37:
+All documents in the cluster has the following keywords:
+archbishop
+At least two third of docs have the following keywords in the cluster:
+archbishop
+Total number of documents in the cluster: 10
+------------------------------
+Cluster 38:
+
+At least two third of docs have the following keywords in the cluster:
+great_slaughter alderman army fight king
+Total number of documents in the cluster: 9
+------------------------------
+Cluster 39:
+
+At least two third of docs have the following keywords in the cluster:
+daughter king kingdom reign son son_succeed die_body lie
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 40:
+All documents in the cluster has the following keywords:
+army sit
+At least two third of docs have the following keywords in the cluster:
+army sit
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 41:
+All documents in the cluster has the following keywords:
+earl king slay
+At least two third of docs have the following keywords in the cluster:
+army brother earl fight king slay
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 42:
+All documents in the cluster has the following keywords:
+army
+At least two third of docs have the following keywords in the cluster:
+army make_peace
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 43:
+
+At least two third of docs have the following keywords in the cluster:
+army king ship
+Total number of documents in the cluster: 11
+------------------------------
+Cluster 44:
+
+At least two third of docs have the following keywords in the cluster:
+ship
+Total number of documents in the cluster: 10
+------------------------------
+Cluster 45:
+All documents in the cluster has the following keywords:
+king
+At least two third of docs have the following keywords in the cluster:
+army conclude king peace decreed die
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 46:
+All documents in the cluster has the following keywords:
+body
+At least two third of docs have the following keywords in the cluster:
+bishop body die
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 47:
+All documents in the cluster has the following keywords:
+dominion
+At least two third of docs have the following keywords in the cluster:
+dominion king daughter
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 48:
+All documents in the cluster has the following keywords:
+army borough die king population
+At least two third of docs have the following keywords in the cluster:
+army borough die king population settle subject archbishop
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 49:
+
+At least two third of docs have the following keywords in the cluster:
+king lord
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 50:
+
+At least two third of docs have the following keywords in the cluster:
+sister die king
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 51:
+All documents in the cluster has the following keywords:
+expel
+At least two third of docs have the following keywords in the cluster:
+expel king
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 52:
+All documents in the cluster has the following keywords:
+bishopric
+At least two third of docs have the following keywords in the cluster:
+bishop bishopric king
+Total number of documents in the cluster: 9
+------------------------------
+Cluster 53:
+
+At least two third of docs have the following keywords in the cluster:
+baptism king
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 54:
+All documents in the cluster has the following keywords:
+allegiance king
+At least two third of docs have the following keywords in the cluster:
+abandon allegiance king
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 55:
+All documents in the cluster has the following keywords:
+abbot minster
+At least two third of docs have the following keywords in the cluster:
+abbot bishop earl king land minster monk
+Total number of documents in the cluster: 10
+------------------------------
+Cluster 56:
+All documents in the cluster has the following keywords:
+abbot king new_minster
+At least two third of docs have the following keywords in the cluster:
+abbot king new_minster appoint drive monk old_minster
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 57:
+All documents in the cluster has the following keywords:
+plunder
+At least two third of docs have the following keywords in the cluster:
+plunder
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 58:
+
+At least two third of docs have the following keywords in the cluster:
+earl earth glory king land law love bliss
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 59:
+
+At least two third of docs have the following keywords in the cluster:
+bow deed king earth father heavenly
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 60:
+All documents in the cluster has the following keywords:
+ravage
+At least two third of docs have the following keywords in the cluster:
+king ravage
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 61:
+All documents in the cluster has the following keywords:
+archbishop
+At least two third of docs have the following keywords in the cluster:
+archbishop bishop consecrated
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 62:
+
+At least two third of docs have the following keywords in the cluster:
+army enemy king ship
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 63:
+All documents in the cluster has the following keywords:
+king
+At least two third of docs have the following keywords in the cluster:
+king return fight people_gather slay
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 64:
+All documents in the cluster has the following keywords:
+brother bury chief_man choose daughter decease die earl household king mother old_minster son thane
+At least two third of docs have the following keywords in the cluster:
+brother bury chief_man choose daughter decease die earl household king mother old_minster son thane
+Total number of documents in the cluster: 2
+------------------------------
+Cluster 65:
+All documents in the cluster has the following keywords:
+king relict
+At least two third of docs have the following keywords in the cluster:
+die drive king mother relict sea
+Total number of documents in the cluster: 3
+------------------------------
+Cluster 66:
+All documents in the cluster has the following keywords:
+bishop
+At least two third of docs have the following keywords in the cluster:
+bishop die
+Total number of documents in the cluster: 18
+------------------------------
+Cluster 67:
+
+At least two third of docs have the following keywords in the cluster:
+king ship
+Total number of documents in the cluster: 9
+------------------------------
+Cluster 68:
+All documents in the cluster has the following keywords:
+cattle king
+At least two third of docs have the following keywords in the cluster:
+bury cattle king mother soul man_remember
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 69:
+All documents in the cluster has the following keywords:
+land ship
+At least two third of docs have the following keywords in the cluster:
+die earl king land ship slay
+Total number of documents in the cluster: 13
+------------------------------
+Cluster 70:
+All documents in the cluster has the following keywords:
+earl king
+At least two third of docs have the following keywords in the cluster:
+archbishop earl king land son
+Total number of documents in the cluster: 15
+------------------------------
+Cluster 71:
+All documents in the cluster has the following keywords:
+die
+At least two third of docs have the following keywords in the cluster:
+die earl
+Total number of documents in the cluster: 5
+------------------------------
+Cluster 72:
+All documents in the cluster has the following keywords:
+king sea
+At least two third of docs have the following keywords in the cluster:
+consecrate king land obtain sea ship die emperor minster son
+Total number of documents in the cluster: 4
+------------------------------
+Cluster 73:
+All documents in the cluster has the following keywords:
+die
+At least two third of docs have the following keywords in the cluster:
+bishop die abbot king
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 74:
+All documents in the cluster has the following keywords:
+lead_army
+At least two third of docs have the following keywords in the cluster:
+king lead_army
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 75:
+
+At least two third of docs have the following keywords in the cluster:
+great_famine
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 76:
+All documents in the cluster has the following keywords:
+castle king
+At least two third of docs have the following keywords in the cluster:
+castle king land
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 77:
+
+At least two third of docs have the following keywords in the cluster:
+king treaty
+Total number of documents in the cluster: 6
+------------------------------
+Cluster 78:
+All documents in the cluster has the following keywords:
+earl king land
+At least two third of docs have the following keywords in the cluster:
+brother castle earl king land
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 79:
+All documents in the cluster has the following keywords:
+die
+At least two third of docs have the following keywords in the cluster:
+die son_succeed king
+Total number of documents in the cluster: 7
+------------------------------
+Cluster 80:
+All documents in the cluster has the following keywords:
+king land
+At least two third of docs have the following keywords in the cluster:
+king land
+Total number of documents in the cluster: 8
+------------------------------
+Cluster 81:
+All documents in the cluster has the following keywords:
+fire
+At least two third of docs have the following keywords in the cluster:
+fight fire die
+Total number of documents in the cluster: 4
+------------------------------

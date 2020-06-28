@@ -1,0 +1,82 @@
+strict digraph {
+	node [shape=point];
+	n1_0 -> n2_0 [penwidth=1.94];
+	n0_0 -> n1_0 [penwidth=1.20];
+	n0_1 -> n1_0 [penwidth=1.37];
+	n0_3 -> n1_0 [penwidth=1.40];
+	n0_4 -> n1_1 [penwidth=1.05];
+	n0_5 -> n1_2 [penwidth=1.71];
+	n0_6 -> n1_1 [penwidth=0.32];
+	n0_7 -> n1_0 [penwidth=1.26];
+	n0_8 -> n1_0 [penwidth=0.52];
+	n0_9 -> n1_1 [penwidth=1.87];
+	n0_10 -> n1_2 [penwidth=0.51];
+	n0_12 -> n1_0 [penwidth=0.83];
+	n0_15 -> n1_1 [penwidth=0.19];
+	n0_16 -> n1_0 [penwidth=0.54];
+	n0_17 -> n1_2 [penwidth=0.26];
+	n0_18 -> n1_1 [penwidth=0.27];
+	n0_19 -> n1_0 [penwidth=0.36];
+	n1_1 -> n2_0 [penwidth=1.22];
+	n0_2 -> n1_1 [penwidth=0.35];
+	n0_13 -> n1_1 [penwidth=0.00];
+	n0_14 -> n1_1 [penwidth=0.24];
+	n1_2 -> n2_0 [penwidth=0.25];
+	n0_11 -> n1_2 [penwidth=0.08];
+	n1_0 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.60,label="0"]
+	n0_0 [label="0:ship enemy land_force
+mouth proceed collect",shape=none,fontcolor="black"]
+	n0_1 [label="1:abbot monk minster
+bishop monastery call",shape=none,fontcolor="black"]
+	n0_3 [label="3:army force suffer
+make_peace hostage bridge",shape=none,fontcolor="black"]
+	n0_4 [label="4:fight gain
+obtain_victory
+have_victory put_flight
+field_battle",shape=none,fontcolor="black"]
+	n0_5 [label="5:plunder burn do_harm
+cattle large_army spoil",shape=none,fontcolor="black"]
+	n0_6 [label="6:council tribute
+provision swear
+hold_court conduct",shape=none,fontcolor="black"]
+	n0_7 [label="7:pall archbishop
+mass_day consecrate synod
+episcopal",shape=none,fontcolor="black"]
+	n0_8 [label="8:aid overtake flight
+fight_put fortress work",shape=none,fontcolor="black"]
+	n0_9 [label="9:slay slew companion
+great_slaughter battle
+pirate",shape=none,fontcolor="black"]
+	n0_10 [label="10:succeed bishopric
+appoint succeed_kingdom
+resign decree",shape=none,fontcolor="black"]
+	n0_12 [label="12:church soul dead
+honour dear die_bury",shape=none,fontcolor="black"]
+	n0_15 [label="15:account bishop_abbot
+heathen earl prison
+go_sea",shape=none,fontcolor="black"]
+	n0_16 [label="16:pope gold_silver bury
+~nation ~brother ~betray",shape=none,fontcolor="black"]
+	n0_17 [label="17:son daughter
+swear_oath ~gather uncle
+~seize",shape=none,fontcolor="black"]
+	n0_18 [label="18:win wise ~drive
+~kingdom martyr wise_man",shape=none,fontcolor="black"]
+	n0_19 [label="19:receive sister
+consecrate_bishop
+great_worship hallowed
+~manifold",shape=none,fontcolor="black"]
+	n1_1 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.25,label="1"]
+	n0_2 [label="2:die ~castle ~promise
+~peace ~king ~lord",shape=none,fontcolor="black"]
+	n0_13 [label="13:deed hear folk land
+reconcile evil",shape=none,fontcolor="black"]
+	n0_14 [label="14:outlaw possess
+treasure summon
+difficulty whole_army",shape=none,fontcolor="black"]
+	n1_2 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.06,label="2"]
+	n0_11 [label="11:corn archbishopric
+kill fruit citizen
+decease",shape=none,fontcolor="black"]
+	n2_0 [shape=point,height=0.06]
+}
